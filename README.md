@@ -20,9 +20,9 @@ additional info: file `db.json` is using like normal database for this app
 
 ## Print screens
 
-![example](https://github.com/jszmidt/bookmarks/raw/master/1.jpg)
-![example](https://github.com/jszmidt/bookmarks/raw/master/2.jpg)
-![example](https://github.com/jszmidt/bookmarks/raw/master/3.jpg)
+![example](https://github.com/jszmidt/bookmarks/blob/master/raw/1.jpeg)
+![example](https://github.com/jszmidt/bookmarks/blob/master/raw/2.jpeg)
+![example](https://github.com/jszmidt/bookmarks/blob/master/raw/3.jpeg)
 
 ## Development server
 
