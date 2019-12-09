@@ -1,6 +1,28 @@
 # Bookmark
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+Angular 8, NRGX, Angular Material, Bootstrap 4 CSS, Fake JSON API + JWT Auth were used in this Project.
+
+Angular Material components were used:
+- Form Controls: Input, Select
+- Navigation: Menu
+- Layout: Expansion Panel, List
+- Buttons,
+
+## How to start application
+
+1. Run `npm install`
+2. Run `npm run start-auth` and `npm run start`
+3. Go to `localhost:4200`
+4. Log in as `admin@test.pl:admin`
+
+additional info: file `db.json` is using like normal database for this app 
+
+## Print screens
+
+![example](https://github.com/jszmidt/bookmarks/raw/master/1.jpg)
+![example](https://github.com/jszmidt/bookmarks/raw/master/2.jpg)
+![example](https://github.com/jszmidt/bookmarks/raw/master/3.jpg)
 
 ## Development server
 
