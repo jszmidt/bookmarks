@@ -1,0 +1,16 @@
+<mat-accordion>
+  <mat-expansion-panel *ngFor="let group of groups$ | async" (opened)="getBookmarks(group)">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        {{group.name}}
+      </mat-panel-title>
+    </mat-expansion-panel-header>
+
+    <mat-list *ngFor="let bookmark of bookmarks">
+      <mat-list-item>{{bookmark.name}}
+        <button mat-button (click)="onDelete(bookmark)"> Delete</button>
+      </mat-list-item>
+    </mat-list>
+
+  </mat-expansion-panel>
+</mat-accordion>
