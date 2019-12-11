@@ -1,7 +1,7 @@
 # Bookmark
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
-Angular 8, NRGX, Angular Material, Bootstrap 4 CSS, Fake JSON API + JWT Auth were used in this Project.
+Angular 8, RXJS, Angular Material, Bootstrap 4 CSS, Fake JSON API + JWT Auth were used in this Project.
 
 Angular Material components were used:
 - Form Controls: Input, Select
